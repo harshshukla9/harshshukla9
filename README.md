@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning solidity ,dapp and more to go
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ista handle__harshshukla
-- https://t.me/c/2333097433/13
+https://linktr.ee/harshshuklaweb3
 
 <!---
 harshshukla9/harshshukla9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
